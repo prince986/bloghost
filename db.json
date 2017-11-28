@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "username": "ankit",
+      "password": "ankit",
+      "favourites": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "id": "1"
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "favourites": [
+        3,
+        7,
+        9
+      ],
+      "id": "2"
+    },
+    {
+      "username": "agarg",
+      "password": "agarg",
+      "favourites": [
+        2,
+        5,
+        7
+      ],
+      "id": "3"
+    }
+  ],
+  "blogs": [
+    {
+      "title": "FacebookApp",
+      "description": "App to connect people and share their activities",
+      "authorId": "3",
+      "categoryId": "5",
+      "date": "17 August 2013",
+      "id": 3
+    },
+    {
+      "title": "Business",
+      "description": "business is the key to success",
+      "authorId": "1",
+      "categoryId": "2",
+      "date": "Sun Nov 19 2017 10:53:54 GMT+0530 (India Standard Time)",
+      "id": 4
+    },
+    {
+      "title": "Static value",
+      "description": "Static value is belonged to a class not objects.\nIt is used to save memory.",
+      "authorId": "1",
+      "categoryId": "4",
+      "date": "Sun Nov 19 2017 10:50:24 GMT+0530 (India Standard Time)",
+      "id": 5
+    },
+    {
+      "title": "Comablog",
+      "description": "In this person feels everything but cannot respond anything so it is very bad problem",
+      "authorId": "2",
+      "categoryId": "3",
+      "date": "Thu Nov 16 2017 17:08:06 GMT+0530 (India Standard Time)",
+      "id": 9
+    },
+    {
+      "title": "business blog",
+      "description": "gives info about business.",
+      "authorId": "1",
+      "categoryId": "2",
+      "date": "Sun Nov 19 2017 10:54:29 GMT+0530 (India Standard Time)",
+      "id": 10
+    },
+    {
+      "title": "Techblog",
+      "description": "this is tech blog, this is good.",
+      "authorId": "1",
+      "categoryId": "1",
+      "date": "Fri Nov 17 2017 12:25:28 GMT+0530 (India Standard Time)",
+      "id": 11
+    },
+    {
+      "title": "my First blog",
+      "description": "hello this is very good blog",
+      "authorId": "1",
+      "categoryId": "2",
+      "date": "Sun Nov 19 2017 10:40:25 GMT+0530 (India Standard Time)",
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "name": "Technology",
+      "id": 1
+    },
+    {
+      "name": "Management",
+      "id": 2
+    },
+    {
+      "name": "Medical",
+      "id": 3
+    },
+    {
+      "name": "Cultural",
+      "id": 4
+    },
+    {
+      "name": "Social",
+      "id": 5
+    }
+  ]
+}
